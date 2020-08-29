@@ -56,6 +56,12 @@ footer {
   text-align: center;
 }
 
-.tabbing{
-  margin-left:10px;
+/*styles the form to the left */
+.info-form{
+  padding-left: 15px;
+}
+
+/* styles button to the left */
+#submit{
+  margin-left: 15px;;
 }
