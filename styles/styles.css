@@ -56,6 +56,30 @@ footer {
   text-align: center;
 }
 
-.tabbing{
-  margin-left:10px;
+table{
+  border: 5px solid black;
+}
+
+th{
+  text-align: left;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+
+.table-one{
+  margin:50px;
+}
+
+
+.table-two{
+  margin:50px;
+}
+
+.table-three{
+  margin-left: auto;
+  margin-right:auto;
 }
