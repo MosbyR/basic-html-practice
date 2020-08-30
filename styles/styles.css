@@ -56,6 +56,27 @@ footer {
   text-align: center;
 }
 
-.tabbing{
-  margin-left:10px;
+.center{
+  margin-left: 10px;;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+}
+
+th, td {
+  padding: 8px;
+}
+
+.invisibleText{
+    visibility: hidden;
 }
